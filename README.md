@@ -8,7 +8,7 @@ To run this project locally, you will need to follow these steps:
 
    ```bash
    git clone https://github.com/khalidtalha00/waste-recycling-website.git
-   cd mysite
+  
 
 2. **Install the dependencies:**
 
